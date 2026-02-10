@@ -1,8 +1,7 @@
 <!-- Animated Header -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Basappa+Mallappa+Baluragi;Java+Full+Stack+Developer+Intern;Spring+%7C+REST+APIs+%7C+SQL"
-    alt="Typing SVG" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Basappa+Mallappa+Baluragi;Java+Full+Stack+Developer+Intern;Spring Framwork+%7C+REST+APIs+%7C+SQL" 
   />
 </p>
 
