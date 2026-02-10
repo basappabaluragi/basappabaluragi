@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Basappa Mallappa Baluragi 
 
-<!--
-**basappabaluragi/basappabaluragi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Java Full Stack Developer | Computer Science Student**
 
-Here are some ideas to get you started:
+I am currently a **Java Full Stack Intern at JSpiders – Training & Development Center**, where I work on building full-stack applications using **Core Java, JDBC, Spring Framework, and modern web technologies**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am pursuing a **Bachelor of Engineering in Computer Science** at **Government Engineering College, Nargund**, with a strong passion for **Java development and full-stack web applications**. I enjoy learning new technologies and continuously improving my software development skills.
+
+---
+
+## 🧑‍💻 Skills & Technologies
+
+- **Programming Languages:** Java, JavaScript  
+- **Backend:** Core Java, JDBC, Spring Framework, Node.js  
+- **Frontend:** HTML, CSS, JavaScript, React.js  
+- **Databases:** SQL  
+- **Tools & Platforms:** Git, GitHub, VS Code  
+- **Concepts:** OOP, MVC Architecture, REST APIs
+
+---
+
+## 📌 Current Focus
+
+- Strengthening **Java & Spring Framework**
+- Building **Full Stack Web Applications**
+- Improving **Data Structures & Problem Solving**
+- Exploring **DevOps & Modern Development Practices**
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering (Computer Science)**  
+📍 Government Engineering College, Nargund  
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/basappa-mallappa-baluragi-2575132a6/](https://www.linkedin.com/in/basappa-mallappa-baluragi-2575132a6/)
+- 📧 **Email:** basappabaluragi341@gmail.com
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me. I'm always open to learning, collaboration, and new opportunities!*
+
