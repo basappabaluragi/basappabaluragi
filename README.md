@@ -1,7 +1,11 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Basappa+Mallappa+Baluragi;Java+Full+Stack+Developer+Intern;Spring+%7C+REST+APIs+%7C+SQL;Clean+Code+%7C+Continuous+Learning" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Basappa+Mallappa+Baluragi;Java+Full+Stack+Developer+Intern;Spring+%7C+REST+APIs+%7C+SQL"
+    alt="Typing SVG" 
+  />
 </p>
+
 
 
 
