@@ -13,10 +13,8 @@
 
 ## 👨‍💻 About Me
 
-✨ **Java Full Stack  (Intern)**  
-✨ Strong in **Core Java, OOP, DSA, Exception Handling**  
-✨ Built **REST APIs & Spring Framwork**  
-✨ Worked with **SQL, JDBC & Databases**  
+Currently a Java Full Stack Intern at JSpiders - Training & Development Center, contributing to projects with a focus on Java Database Connectivity (JDBC), Core Java, and the Spring Framework.  
+Pursuing a Bachelor of Engineering in Computer Science at Government Engineering College Nargund, with a strong interest in Java development and full-stack web applications. Committed to continuous learning and skill development in software development and related technologies.
 
 
 ---
@@ -35,17 +33,9 @@
 ## 🧰 Tech Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,react,Node.js,express.js,MongDB,git,github,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,react,node,express,git,github,postman&theme=dark" />
 </p>
 ---
-
-## 📊 GitHub Stats (Animated)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="165"/>
-</p>
-
 ---
 
 ## 🌱 Currently Learning
