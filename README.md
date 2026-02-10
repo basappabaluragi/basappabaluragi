@@ -13,8 +13,8 @@
 
 ## 👨‍💻 About Me
 
-✨ **Java Full Stack Developer (Intern)**  
-✨ Strong in **Core Java, OOP, Collections, Exception Handling**  
+✨ **Java Full Stack  (Intern)**  
+✨ Strong in **Core Java, OOP, DSA, Exception Handling**  
 ✨ Built **REST APIs & Spring Framwork**  
 ✨ Worked with **SQL, JDBC & Databases**  
 
