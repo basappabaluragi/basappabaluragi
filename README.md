@@ -33,7 +33,13 @@ Pursuing a Bachelor of Engineering in Computer Science at Government Engineering
 ## 🧰 Tech Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,react,node,express,git,github,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,react,express,git,github,postman&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,threejs" />
 </p>
 ---
 ---
