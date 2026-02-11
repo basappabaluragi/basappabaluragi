@@ -58,13 +58,9 @@ Pursuing a Bachelor of Engineering in Computer Science at Government Engineering
   <a href="https://www.linkedin.com/in/basappa-mallappa-baluragi-2575132a6/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
+  <a href="https://www.instagram.com/kiccha_basu___01/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
-
-
-## ⚡ Fun Fact
-
-> “Clean code always looks like it was written by someone who cares.”
-
----
 
 ⭐ **Feel free to explore my repositories and connect with me!**
